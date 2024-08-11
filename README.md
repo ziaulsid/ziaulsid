@@ -2,8 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on a Book tracking app
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working on a building a load balancer 
+- 🌱 I’m currently learning Rust
 - 🤔 I’m looking for help with Quantum Computing/ Competitive Programming
 - 💬 Ask me about Java, Concurrency, System Design
 - 😄 Pronouns: He/Him
